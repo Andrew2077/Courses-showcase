@@ -1,0 +1,115 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://6fb25eade247:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.111) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (73.145.170.32) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 5.39ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 1.00ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 0.95ms referer=https://instructorgmvozbye.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 1.00ms referer=https://instructorgmvozbye.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://025a8e1e0a71:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.88) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.01ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.55ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | INFO] Uploading file to /resources/datasets/mpg.csv
+[NotebookApp | INFO] 302 GET / (10.0.0.96) 0.47ms
+[NotebookApp | INFO] 302 GET / (10.0.0.92) 0.46ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.02ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://215b1c055691:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.51) 0.58ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.101.101) 6.60ms referer=https://busmobtz.labs.coursera.org/tree
+[NotebookApp | INFO] 302 GET / (10.0.0.121) 0.50ms
+[NotebookApp | INFO] 302 GET / (10.0.0.10) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.101.101) 1.51ms referer=https://busmobtz.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.101.101) 1.87ms referer=https://busmobtz.labs.coursera.org/edit/readonly/README.md
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.101.101) 1.08ms referer=https://busmobtz.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7eb2fdd4-71f1-4667-b939-d54452fedcb7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7eb2fdd4-71f1-4667-b939-d54452fedcb7) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | WARNING] Replacing stale connection: 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Starting buffering for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7eb2fdd4-71f1-4667-b939-d54452fedcb7) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | WARNING] Replacing stale connection: 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Starting buffering for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7eb2fdd4-71f1-4667-b939-d54452fedcb7) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | WARNING] Replacing stale connection: 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Starting buffering for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7eb2fdd4-71f1-4667-b939-d54452fedcb7) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | INFO] Starting buffering for 7eb2fdd4-71f1-4667-b939-d54452fedcb7:b2c7680560294849a8ba7507d5e3ae36
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 7eb2fdd4-71f1-4667-b939-d54452fedcb7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://21e2e273d1d6:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.51) 0.58ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.56.228) 5.71ms referer=https://busmobtz.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: faaf7ef6-026c-4a20-8f94-0dd3f791a737
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel faaf7ef6-026c-4a20-8f94-0dd3f791a737) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Starting buffering for faaf7ef6-026c-4a20-8f94-0dd3f791a737:95ab1d401de94bbf817308980a7ccedc
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: faaf7ef6-026c-4a20-8f94-0dd3f791a737
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://fd0c6ab66235:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.14) 0.61ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.24.117) 5.88ms referer=https://busmobtz.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c645c9bb-1d85-4d54-a37b-359414fcf532
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c645c9bb-1d85-4d54-a37b-359414fcf532) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Starting buffering for c645c9bb-1d85-4d54-a37b-359414fcf532:fcf6eb37edc340a2889cd5186794056c
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c645c9bb-1d85-4d54-a37b-359414fcf532
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://b34f27c09a3f:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.51) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (156.196.24.117) 5.89ms referer=https://busmobtz.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 32eee499-6713-482f-9294-63769a492387
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 32eee499-6713-482f-9294-63769a492387) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
